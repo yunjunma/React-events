@@ -136,7 +136,7 @@ class EventDashboard extends Component {
   }
 
   render() {
-    // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! "{...}" below
+    // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! "{...}" below, do not miss it
     const {selectedEvent} = this.state;
     return (
       <Grid>
